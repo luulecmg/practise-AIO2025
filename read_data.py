@@ -6,3 +6,5 @@ list_c = list_a + list_b
 print(list_c)
 
 print(list_a)
+
+d = set()
