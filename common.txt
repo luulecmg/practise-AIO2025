@@ -1,3 +1,0 @@
-First line: Content from main branch
-First line: content from feature-a branch
-Second line: conten from feature-a branch
